@@ -1,4 +1,3 @@
-
 # Youssef CHEHATA
 ## Senior React & Node.js Developer
 
@@ -121,5 +120,3 @@ I believe that the best developers never stop learning. My commitment to profess
 - Staying current with industry trends and best practices
 
 ---
-
-
